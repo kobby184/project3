@@ -1,6 +1,6 @@
 
 # Multinomial Single Index Model with Extended Smooth Terms using MGCV
-# Analyzing Phishing URL data for detecting potential phishing attacks using various classification algorithms
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
