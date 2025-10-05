@@ -20,8 +20,8 @@ assumes a non-linear relationship between the response variable (accident rates)
 ### Research Objectives
 The main objectives of this study are:\
 
-    .To develop a flexible single-index multinomial model for analyzing road traffic accident data.
-    .To evaluate the performance of the proposed model using simulations and real-world accident data.
-    .To identify and quantify the impact of various predictors, such as weather conditions, road types, and traffic controls, on accident rates./
+    - To develop a flexible single-index multinomial model for analyzing road traffic accident data.
+    - To evaluate the performance of the proposed model using simulations and real-world accident data.
+    - To identify and quantify the impact of various predictors, such as weather conditions, road types, and traffic controls, on accident rates./
     
 By addressing these objectives, the study aims to enhance the understanding of road traffic accidents and contribute to the development of safer transportation systems.
