@@ -3,9 +3,9 @@
 
 
 ## Table of Contents
-- [Introduction](#Introduction)
+- [Introduction](#introduction)
   - [Research Objectives](#research-objectives)
-- [Literature Review](#Literature-Review)
+- [Literature Review](#literature-review)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Model Selection](#model-selection)
