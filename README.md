@@ -25,3 +25,5 @@ The main objectives of this study are
 - To identify and quantify the impact of various predictors, such as weather conditions, road types, and traffic controls, on accident rates.
     
 By addressing these objectives, the study aims to enhance the understanding of road traffic accidents and contribute to the development of safer transportation systems.
+
+## Literature Review
